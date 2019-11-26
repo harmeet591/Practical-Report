@@ -1,8 +1,8 @@
 ![College Logo](https://www.gndec.ac.in/logo.png)
 
 # **PROGRAMMING FOR PROGRAM SOLVING ESC-18105**
-## **NAME - SHARANJIT SINGH**
-## **ROLL NO - 1914103**
+## **NAME - HARMEET KAUR**
+## **ROLL NO - 1914**
 ## **SECTION - CE(B2)**
 ----------------------------------------------
 
