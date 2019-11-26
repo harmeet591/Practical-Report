@@ -3,7 +3,7 @@
 # **PROGRAMMING FOR PROGRAM SOLVING ESC-18105**
 ## **NAME - HARMEET KAUR**
 ## **ROLL NO - 1914**
-## **SECTION - CE(B2)**
+## **SECTION - CE(A2)**
 ----------------------------------------------
 
 # INDEX
